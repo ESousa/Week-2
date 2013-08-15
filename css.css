@@ -1,0 +1,13 @@
+	.error {
+		color: red;
+	}
+
+
+	.bad {
+		border: 2px solid red;
+	}
+
+
+	.good {
+		border: 2px solid green;
+	}
