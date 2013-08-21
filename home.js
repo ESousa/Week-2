@@ -44,6 +44,8 @@ function submitForm() {
 		}
 
 
+		//error message if user does not enter valid email addy//
+
 		if ( hasErrors ) {
 			alert("Email is no good");
 		} else {
